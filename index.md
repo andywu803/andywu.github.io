@@ -36,7 +36,7 @@ The Mandelbrot set consists of all of those (complex) c-values for which the cor
 <img src="images/mandelbrot_image.png?raw=true"/> \
 <img src="images/mandelbrot_image2.png?raw=true"/> \
 <img src="images/mandelbrot_image3.png?raw=true"/> \
-<img src="images/mandelbrot_image4.png?raw=true"/> \
+<img src="images/mandelbrot_image4.png?raw=true"/> 
 
 ---
 ### [Snake Game](https://github.com/andywu803/snake-game)
