@@ -30,7 +30,7 @@ The Mandelbrot set consists of all of those (complex) c-values for which the cor
 
 
 **Click and Drag to Zoom** \
-<img src="images/mandelbrot_zoom.png?raw=true"/>
+<img src="images/mandelbrot_drag_zoom.png?raw=true"/>
 
 **Some of the Zooms** \
 <img src="images/mandelbrot_image.png?raw=true"/> \
