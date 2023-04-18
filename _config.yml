@@ -1,11 +1,10 @@
-title: Andy Wu # your name (or website title) here
+bbtitle: Andy Wu # your name (or website title) here
 logo: "/images/headshot.png?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
   <a href="https://www.linkedin.com/in/andywu803/">LinkedIn</a> | <a href="https://github.com/andywu803">GitHub</a>
-  First description 
-  <br><br>
-  Second description 
-  <br><br>
+  <br/>
+  B.S. in Computer Science and Minor in Mathematics from UNLV.
+  Proficient in C++, Python, Java and professional experience in C#/ASP.NET development with an interest in data seeking a full-time role in Software Development or Data Science.
   
 theme: jekyll-theme-minimal
 google_analytics: UA-000000-0 # your Google Analytics tracking ID here
